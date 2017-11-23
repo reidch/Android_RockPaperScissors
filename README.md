@@ -16,7 +16,7 @@ Putting into practice what I've been learning about Android Studio and XML.
 
 SCREENSHOT
 
-![main activity](https://github.com/reidch/Android_RockPaperScissors/blob/master/Screenshots/Screenshot_main_activity.png width="200" "Rock Paper Scissors main activity")
+<img src="https://github.com/reidch/Android_RockPaperScissors/blob/master/Screenshots/Screenshot_main_activity.png" alt="Rock Paper Scissors main activity" width="250" />
 
 I derived huge satisfaction from finally getting my head around game logic and modelling an albeit simple game.
 Being able to show the game to friends and family was immensely rewarding.
